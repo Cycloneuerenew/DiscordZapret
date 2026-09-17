@@ -94,7 +94,7 @@
     `netsh winhttp reset proxy`
   
     `ipconfig /flushdns`
-
+  
 - Перезагрузите компьютер
 
 ### Не работает телеграм (веб версия) или бесконечное "подключение" к голосовому чату Discord
@@ -179,7 +179,7 @@ sc delete название_из_первого_шага
 - Если Discord и в браузере не работает, то пробуйте ещё раз все стратегии. Бывает такое, что на одной стратегии YouTube работает, а Discord нет.
 - См. также [#252](https://github.com/Cycloneuerenew/zapret-discord-youtube/discussions/252)
 
-### Не работает <img src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" height=18 /> Telegram
+### Не работает <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=18 /> Telegram
 
 - Используйте программу [tg-ws-proxy](https://github.com/Cycloneuerenew/tg-ws-proxy)
 - Или используйте бесплатные MTProto прокси из интернета
@@ -213,7 +213,7 @@ sc delete название_из_первого_шага
 
 Вы можете поддержать проект, поставив :star: этому репозиторию (сверху справа этой страницы)
 
-Также вы можете материально поддержать оригинального разработчика zapret [тут](https://github.com/bol-van/zapret?tab=readme-ov-file#%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0)
+Также вы можете материально поддержать оригинального разработчика zapret [тут](https://github.com/bol-van/zapret?tab=readme-ov-file#%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0)
 
 ## ⚖️Лицензирование
 
